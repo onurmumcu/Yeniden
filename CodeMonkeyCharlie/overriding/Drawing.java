@@ -12,7 +12,7 @@ public class Drawing extends JFrame {
 	}
 	
 	public Drawing() {
-		setSize(500, 500);
+		setSize(300, 300);
 		setVisible(true);
 	}
 	
