@@ -1,4 +1,5 @@
+package inheritance;
 
-public class Subclass {
+public class Subclass extends Parent {
 
 }
